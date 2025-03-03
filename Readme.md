@@ -1,4 +1,4 @@
-# Breast Cancer Data Visualization
+# Breast Cancer Data Visualization - Wisconsin
 
 This repository provides a comprehensive suite of visualizations to explore the [Breast Cancer Wisconsin Diagnostic Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) as well as the version available via scikit-learn’s `load_breast_cancer()` function. The dataset contains 569 samples with 30 real-valued features derived from digitized images of fine needle aspirates (FNAs) of breast masses, along with a binary target indicating whether a tumor is **malignant** or **benign**. This part is to explore patterns, feature relationships, and class separability using different data visualization techniques.
 
