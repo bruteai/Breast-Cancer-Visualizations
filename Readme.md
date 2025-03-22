@@ -115,7 +115,7 @@ This will generate the visualization images in the **`results/`** folder.
 
 ---
 
-## 📢 Key Takeaways
+## Key Takeaways
 ✅ **PCA and t-SNE** effectively reduce dimensionality while maintaining class separability.  
 ✅ **Some features are highly correlated**, indicating the potential for feature selection.  
 ✅ **Benign and malignant tumors** exhibit significantly different distributions in several features.  
@@ -124,7 +124,7 @@ This visualization provides **valuable insights** that can be used to improve **
 
 ---
 
-## 📢 Next
+## Next
 ✅ **Graph Neural Network**  
 ✅ **Transformers** 
 
